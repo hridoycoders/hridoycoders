@@ -11,9 +11,18 @@
 
 - 🌱 I’m currently learning **🌐 Learning modern Web Development ⚡ Exploring JavaScript and ES6 🎨 Practicing HTML, CSS & Tailwind CSS 💻 Building responsive websites and small projects 🔧 Learning Git & GitHub for version control 📚 Continuously improving my problem-solving skills**
 
-- 💬 Ask me about **🎓 I am a Computer Science & Technology (CST) student at Bogura Polytechnic Institute. 🌐 I am currently learning Web Development. 💻 I am learning HTML, CSS, JavaScript, and Tailwind CSS. ⚡ I am practicing JavaScript ES6 and problem solving. 🔧 I am improving my skills in Git and GitHub. 🚀 I enjoy building websites and working on web development projects. 🎯 My goal is to become a skilled Web Engineer.**
+- 💬 Ask me about **##
+* 👋 I am **Hridoy Ahmed Noor**.
+* 🎓 I am a **Computer Science & Technology (CST) student** at Bogura Polytechnic Institute.
+* 🌐 I am currently learning **Web Development**.
+* 💻 I am learning **HTML, CSS, JavaScript, and Tailwind CSS**.
+* ⚡ I am practicing **JavaScript ES6 and problem solving**.
+* 🔧 I am improving my skills in **Git and GitHub**.
+* 🚀 I enjoy building websites and working on web development projects.
+* 🎯 My goal is to become a **skilled Web Engineer**.
+**
 
-- 📫 How to reach me **hridoyahmednoor30@gmail.com**
+- 📫 How to reach me **fbhridoy31@gmail.com**
 
 - ⚡ Fun fact **I started coding because I wanted to build things, not just use them.**
 
