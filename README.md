@@ -49,15 +49,9 @@ I am currently focusing on improving my programming skills, building projects, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridoy-ahmed1&show_icons=true&theme=tokyonight&hide_border=true" alt="Hridoy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hridoy-ahmed1&show_icons=true&theme=tokyonight&hide_border=true" alt="Hridoy Ahmed GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy-ahmed1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridoy-ahmed1&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
