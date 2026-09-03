@@ -1,11 +1,12 @@
 <p align="center">
   <img src="./banner.png" alt="Hridoy Ahmed Banner" width="100%">
 </p>
-# Hi 👋, I'm <Hridoy Ahmed>  
+
+# Hi 👋, I'm Hridoy Ahmed
+
 ### 👨‍💻 I’m learning Web Development with HTML, CSS, JavaScript, and Tailwind CSS
 
 ---
-
 ## 👨💻 About Me  
 I am a Computer Science & Technology (CST) student at Bogura Polytechnic Institute. I am passionate about web development and enjoy learning how modern websites are built.
 
