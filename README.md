@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Hridoy Ahmed Banner" width="100%">
+</p>
 # Hi 👋, I'm <Hridoy Ahmed>  
 ### 👨‍💻 I’m learning Web Development with HTML, CSS, JavaScript, and Tailwind CSS
 
