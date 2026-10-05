@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy-ahmed1&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy-ahmed1" /> </p>
 
-- 🔭 I’m currently working on [devconf-26](https://github.com/hridoy-ahmed1/B-14-Assignment1-DevConf-2026)
+- 🔭 I’m currently working on [fit-log](https://github.com/hridoycoders/fit-log)
 
 - 💬 Ask me about **
 * 👋 I am **Hridoy Ahmed**.
